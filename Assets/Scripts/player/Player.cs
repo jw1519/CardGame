@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     public int health;
     public int deckSize;
+    public int power;
     public PlayerType playerType;
     public enum PlayerType
     {
